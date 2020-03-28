@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="530a6fab-a7f9-49e1-9282-a48b87c64c15" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ai_trader/samsung_trader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/colab/02_01_deep_learning_deep_neural_network.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/colab/03_01_autoencoder_train.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ai_trader/ai_trader.py" beforeDir="false" afterPath="$PROJECT_DIR$/ai_trader/ai_trader.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,21 +170,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1232" height="273" key="GridCell.Tab.0.bottom" timestamp="1584782193445">
+    <state width="1232" height="290" key="GridCell.Tab.0.bottom" timestamp="1584782805840">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1232" height="273" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584782193445" />
-    <state width="1232" height="273" key="GridCell.Tab.0.center" timestamp="1584782193445">
+    <state width="1232" height="290" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584782805840" />
+    <state width="1232" height="290" key="GridCell.Tab.0.center" timestamp="1584782805840">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1232" height="273" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584782193445" />
-    <state width="1232" height="273" key="GridCell.Tab.0.left" timestamp="1584782193445">
+    <state width="1232" height="290" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584782805840" />
+    <state width="1232" height="290" key="GridCell.Tab.0.left" timestamp="1584782805840">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1232" height="273" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584782193445" />
-    <state width="1232" height="273" key="GridCell.Tab.0.right" timestamp="1584782193445">
+    <state width="1232" height="290" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584782805840" />
+    <state width="1232" height="290" key="GridCell.Tab.0.right" timestamp="1584782805840">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1232" height="273" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584782193445" />
+    <state width="1232" height="290" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584782805840" />
+    <state x="474" y="418" key="com.intellij.ide.util.TipDialog" timestamp="1585360493669">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="474" y="418" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585360493669" />
   </component>
 </project>
